@@ -3,6 +3,7 @@
 In the literature, the [Noscope](https://github.com/stanford-futuredata/noscope) dataset is one of the most popular datasets used to demonstrate query experiments about traffic surveillance.
 It contains a surveillance video recorded for 60 hours and the respective labeled CSV dataset with annotations for each object (event) found in each frame. 
 The CSV file contains 1,064,237 events (object detections) in 6,426,647 frames with the following fields: frame, objectname, confidence, xmin, ymin, xmax, ymax.
+[Google Drive repository](https://drive.google.com/drive/folders/1znFWgDNH_rxof-ZTYHd_gwZR8iwY771t) of the original Noscope dataset files.
 
 ## A new database based on Noscope CSV labeled dataset
 
